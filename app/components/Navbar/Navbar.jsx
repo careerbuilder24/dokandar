@@ -241,11 +241,11 @@ export default function Navbar() {
 
             {/* LEFT */}
             <div className="flex items-center gap-4">
-              <button className="text-2xl">☰</button>
+              {/* <button className="text-2xl">☰</button> */}
 
               <Link href="/" className="flex items-center gap-2">
                 <Image
-                  src="/logo.png"
+                  src="/"
                   alt="Dokandar Logo"
                   width={40}
                   height={40}
