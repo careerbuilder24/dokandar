@@ -20,15 +20,15 @@ export default function DeliverySection() {
 
         <div className="flex flex-wrap justify-center gap-6">
           {/* City Pills */}
-          <span className="px-10 py-3 bg-purple-600 text-white rounded-full text-sm font-medium shadow">
+          <span className="px-10 py-3 bg-pink-500 text-white rounded-full text-sm font-medium shadow hover:bg-pink-600 cursor-pointer">
             Dhaka
           </span>
 
-          <span className="px-10 py-3 bg-purple-600 text-white rounded-full text-sm font-medium shadow">
+          <span className="px-10 py-3 bg-pink-500 text-white rounded-full text-sm font-medium shadow  hover:bg-pink-600 cursor-pointer">
             Pirojpur
           </span>
 
-          <span className="px-10 py-3 bg-purple-600 text-white rounded-full text-sm font-medium shadow">
+          <span className="px-10 py-3 bg-pink-500 text-white rounded-full text-sm font-medium shadow hover:bg-pink-600 cursor-pointer">
             Khulna
           </span>
         </div>

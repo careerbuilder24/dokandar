@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <footer className="bg-gray-50 border-t">
 
-      {/* ================= TOP CITIES BAR ================= */}
+      {/* ================= TOP CITIES BAR =================
       <div className="border-b">
         <div className="max-w-7xl mx-auto px-4 py-4 flex flex-wrap gap-4 text-sm text-gray-700">
           <span className="font-medium">Cities:</span>
@@ -12,7 +12,7 @@ export default function Footer() {
           <Link href="#" className="hover:underline">Pirojpur</Link>
           <Link href="#" className="hover:underline">Khulna</Link>
         </div>
-      </div>
+      </div> */}
 
       {/* ================= MAIN FOOTER ================= */}
       <div className="max-w-7xl mx-auto px-4 py-12 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-10">

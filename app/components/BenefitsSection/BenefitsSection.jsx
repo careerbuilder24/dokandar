@@ -4,7 +4,7 @@ export default function BenefitsSection() {
       <div className="max-w-7xl mx-auto px-4 py-16">
 
         {/* SECTION TITLE */}
-        <h2 className="text-xl font-medium text-center text-gray-800 mb-10">
+        <h2 className="text-xl font-medium text-center text-black mb-10">
           Shop & Get More
         </h2>
 
