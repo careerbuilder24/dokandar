@@ -245,7 +245,7 @@ export default function Navbar() {
 
               <Link href="/" className="flex items-center gap-2">
                 <Image
-                  src="/"
+                  src="/logo2.png"
                   alt="Dokandar Logo"
                   width={40}
                   height={40}
