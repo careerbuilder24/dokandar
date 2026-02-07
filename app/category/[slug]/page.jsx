@@ -1,174 +1,13 @@
-// "use client";
-
-// import { useParams } from "next/navigation";
-// import Navbar from "@/app/components/Navbar/Navbar";
-
-// const CATEGORY_MAP = {
-//   "fruits-vegetables": {
-//     title: "Fruits & Vegetables",
-//     subcategories: ["Fresh Vegetables", "Fresh Fruits"],
-//   },
-//   "meat-fish": {
-//     title: "Meat & Fish",
-//     subcategories: [
-//       "Chicken & Poultry",
-//       "Premium Perishables",
-//       "Frozen Fish",
-//       "Meat",
-//       "Dried Fish",
-//     ],
-//   },
-//   cooking: {
-//     title: "Cooking",
-//     subcategories: [
-//       "Spices",
-//       "Salt & Sugar",
-//       "Rice",
-//       "Dal or Lentil",
-//       "Oil",
-//     ],
-//   },
-//   beverages: {
-//     title: "Beverages",
-//     subcategories: [
-//       "Tea",
-//       "Soft Drinks",
-//       "Coffee",
-//       "Juice",
-//       "Water",
-//     ],
-//   },
-//   "home-cleaning": {
-//     title: "Home & Cleaning",
-//     subcategories: [
-//       "Dishwashing Supplies",
-//       "Laundry",
-//       "Toilet Cleaners",
-//       "Pest Control",
-//     ],
-//   },
-//   "pest-control": {
-//     title: "Pest Control",
-//     subcategories: [
-//       "Mosquito Spray",
-//       "Coils",
-//       "Liquid Repellent",
-//     ],
-//   },
-//   "stationery-office": {
-//     title: "Stationery & Office",
-//     subcategories: [
-//       "Office Electronics",
-//       "Organizers",
-//       "Writing & Printing",
-//       "School Supplies",
-//     ],
-//   },
-// };
-
-// export default function CategoryPage() {
-//   const { slug } = useParams();
-//   const category = CATEGORY_MAP[slug];
-
-//   if (!category) {
-//     return <div className="p-10">Category not found</div>;
-//   }
-
-//   return (
-//     <>
-//       <Navbar />
-
-//       <div className="max-w-7xl mx-auto px-4 py-8 flex gap-6">
-
-//         {/* LEFT SIDEBAR */}
-//         <aside className="w-64 border-r pr-4">
-//           <h3 className="font-semibold mb-4">Categories</h3>
-//           <ul className="space-y-2 text-sm">
-//             {Object.values(CATEGORY_MAP).map((cat, i) => (
-//               <li key={i} className="text-gray-600">
-//                 {cat.title}
-//               </li>
-//             ))}
-//           </ul>
-//         </aside>
-
-//         {/* MAIN CONTENT */}
-//         <main className="flex-1">
-//           {/* Breadcrumb */}
-//           <p className="text-sm text-gray-500 mb-4">
-//             Food &gt; <span className="text-black">{category.title}</span>
-//           </p>
-
-//           {/* Title */}
-//           <h1 className="text-2xl font-bold mb-6">
-//             {category.title}
-//           </h1>
-
-//           {/* Subcategories grid */}
-//           <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
-//             {category.subcategories.map((sub, i) => (
-//               <div
-//                 key={i}
-//                 className="border rounded-lg p-4 text-center hover:shadow cursor-pointer"
-//               >
-//                 <div className="h-24 bg-gray-100 rounded mb-3"></div>
-//                 <p className="text-sm font-medium">{sub}</p>
-//               </div>
-//             ))}
-//           </div>
-//         </main>
-//       </div>
-//     </>
-//   );
-// }
-
-
-
-// const categories = [
-//   {
-//     title: "Fruits & Vegetables",
-//     slug: "fruits-vegetables",
-//     image: "https://png.pngtree.com/png-vector/20240807/ourmid/pngtree-juicy-fruits-and-vitamins-natural-organic-fruits-png-image_13146415.png",
-//   },
-//   {
-//     title: "Meat & Fish",
-//     slug: "meat-fish",
-//     image: "https://www.uaex.uada.edu/life-skills-wellness/food-safety/images/Meat-poultry-fish2.jpg",
-//   },
-//   {
-//     title: "Cooking",
-//     slug: "cooking",
-//     image: "https://www.utshob.com/uploads/product_images/featured_images/6204daa92fa74_6204daa92fa75",
-//   },
-//   {
-//     title: "Beverages",
-//     slug: "beverages",
-//     image: "https://sagaciresearch.com/wp-content/uploads/2019/09/Top-10-Carbonated-Soft-Drinks-Egypt-V3.jpg",
-//   },
-//   {
-//     title: "Home & Cleaning",
-//     slug: "home-cleaning",
-//     image: "https://s3gw.inet.co.th:8082/smegp-image-1/prod/V1/17062021200518%E0%B8%AD%E0%B8%B8%E0%B8%9B%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%94.jpg",
-//   },
-//   {
-//     title: "Pest Control",
-//     slug: "pest-control",
-//     image: "https://image.made-in-china.com/202f0j00WchukzelOari/Aerosol-Pest-Control-Products-Insecticide-Spray-Flea-Tick-Lice-Killer-Spray.webp",
-//   },
-//   {
-//     title: "Stationery & Office",
-//     slug: "stationery-office",
-//     image: "https://t4.ftcdn.net/jpg/06/23/04/51/360_F_623045180_16qugNZq0uDedE9vM01O0Q9RBM8sGG96.jpg",
-//   },
-// ];
 
 
 "use client";
 
 import { useParams } from "next/navigation";
 import Navbar from "@/app/components/Navbar/Navbar";
-import Link from "next/link";
 import Footer from "@/app/components/Footer/Footer";
+import Link from "next/link";
+
+
 
 /* ================= CATEGORY DATA ================= */
 
@@ -178,6 +17,7 @@ const CATEGORY_MAP = {
     subcategories: [
       {
         title: "Fresh Vegetables",
+        slug: "fresh-vegetables",
         image:
           "https://chaldn.com/_mpimage/fresh-vegetables?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D23773&q=low&v=1&m=400&webp=1",
       },
@@ -438,7 +278,9 @@ export default function CategoryPage() {
 
       <div className="max-w-7xl mx-auto px-4 py-8 flex gap-6">
         {/* LEFT SIDEBAR */}
-        <aside className="w-64 border-r pr-4">
+        {/* <aside className="w-64 border-r pr-4"> */}
+        <aside className="hidden md:block w-64 border-r pr-4">
+
           <h3 className="font-semibold mb-4">Categories</h3>
           <ul className="space-y-2 text-sm">
             {Object.entries(CATEGORY_MAP).map(([key, cat]) => (
@@ -473,9 +315,13 @@ export default function CategoryPage() {
           {/* Subcategories */}
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
             {category.subcategories.map((sub, i) => (
-              <div
+              <Link
                 key={i}
-                className="border rounded-lg p-4 text-center hover:shadow cursor-pointer"
+                href={`/category/${slug}/${sub.slug ?? sub.title
+                  .toLowerCase()
+                  .replaceAll(" & ", "-")
+                  .replaceAll(" ", "-")}`}
+                className="border rounded-lg p-4 text-center hover:shadow block"
               >
                 <img
                   src={sub.image}
@@ -483,7 +329,7 @@ export default function CategoryPage() {
                   className="h-28 mx-auto object-contain mb-3"
                 />
                 <p className="text-sm font-medium">{sub.title}</p>
-              </div>
+              </Link>
             ))}
           </div>
         </main>

@@ -1,57 +1,4 @@
-// export default function BodySection() {
-//   return (
-//     <section className="max-w-7xl mx-auto px-4 py-12">
 
-//       {/* ================= POPULAR CATEGORIES ================= */}
-//       <div className="mb-14">
-//         <div className="flex items-center justify-between mb-6">
-//           <h2 className="text-lg font-medium text-white-800">
-//             Popular Categories
-//           </h2>
-//           <button className="text-pink-600 text-sm font-medium">
-//             View All
-//           </button>
-//         </div>
-
-//         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-8 gap-6">
-//           {categories.map((item, index) => (
-//             <div
-//               key={index}
-//               className="bg-white border rounded-xl p-4 flex flex-col items-center text-center
-//                          hover:shadow-md transition"
-//             >
-//               <img
-//                 src={item.image}
-//                 alt={item.title}
-//                 className="h-20 object-contain mb-3"
-//               />
-//               <p className="text-sm text-gray-700">{item.title}</p>
-//             </div>
-//           ))}
-//         </div>
-//       </div>
-
-//       {/* ================= POPULAR ON CHALDAL ================= */}
-//       <div>
-//         <h2 className="text-lg font-medium text-gray-800 mb-8 text-center">
-//           Popular on Chaldal
-//         </h2>
-
-//         <div className="flex flex-wrap items-center justify-center gap-10">
-//           {brands.map((logo, index) => (
-//             <img
-//               key={index}
-//               src={logo}
-//               alt="brand"
-//               className="h-12 object-contain grayscale hover:grayscale-0 transition"
-//             />
-//           ))}
-//         </div>
-//       </div>
-
-//     </section>
-//   );
-// }
 
 import Link from "next/link";
 
@@ -67,9 +14,9 @@ export default function BodySection() {
               Popular Categories
             </h2>
 
-            <button className="bg-pink-500 hover:bg-pink-600 text-white px-5 py-2 rounded-md text-sm font-medium">
+            <Link href="/category/fruits-vegetables" className="bg-pink-500 hover:bg-pink-600 text-white px-5 py-2 rounded-md text-sm font-medium">
               View All
-            </button>
+            </Link>
           </div>
 
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-8 gap-6">
