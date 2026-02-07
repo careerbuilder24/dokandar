@@ -784,5 +784,237 @@ export const PRODUCTS = {
       image:
         "https://chaldn.com/_mpimage/aarong-natural-moshur-dal-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122769&q=best&v=1&m=400&webp=1 ",
     },
-  ]
+  ],
+  "oil": [
+    {
+      id: 1,
+      name: "Farmers Gold Black Seed Oil",
+      price: 250,
+      unit: "500 ml",
+      image:  
+        "https://chaldn.com/_mpimage/farmers-gold-black-seed-oil-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D160655&q=best&v=1&m=400&webp=1  ",
+    }
+    ,{
+      id: 2,
+      name: "Teer Fortified Soyabean Oil",
+      price: 955     ,
+      unit: "5 Ltr",
+      image:
+        "https://chaldn.com/_mpimage/teer-fortified-soyabean-oil-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D136107&q=best&v=1&m=400&webp=1 ",  
+    },{
+      id: 3,
+      name: "ACI Nutrilife Rice Bran Oil",
+      price: 1120,
+      unit: "5 Ltr",
+      image:
+        "https://chaldn.com/_mpimage/aci-nutrilife-rice-bran-oil-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177941&q=best&v=1&m=400&webp=1 ",  
+    },{
+      id: 4,
+      name: "Fortune Fortified Rice Bran Oil",
+      price: 1105 ,
+      unit: "5 Ltr",
+      image:
+        "https://chaldn.com/_mpimage/fortune-fortified-rice-bran-oil-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D182968&q=best&v=1&m=400&webp=1 ",  
+    },
+    {
+      id: 5,
+      name: "Pran Mustard Oil",
+      price: 175,
+      unit: "500 ml",
+      image:  
+        "https://chaldn.com/_mpimage/pran-mustard-oil-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132319&q=best&v=1&m=400&webp=1 ",    
+    },{
+      id: 6,
+      name: "Kings Sunflower Oil PET",
+      price: 2100 ,
+      unit: "5 Ltr",
+      image:
+        "https://chaldn.com/_mpimage/kings-sunflower-oil-pet-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D182967&q=best&v=1&m=400&webp=1 ",  
+    },{
+      id: 7,
+      name: "Saffola Active Plus Edible Oil",
+      price: 1900,
+      unit: "5 Ltr",
+      image:
+        "https://chaldn.com/_mpimage/saffola-active-plus-edible-oil-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133099&q=best&v=1&m=400&webp=1    ",  
+    },{
+      id: 8,
+      name: "Olio Orioled Olive Oil",
+      price: 6855,
+      unit: "5 Ltr",
+      image:
+        "https://chaldn.com/_mpimage/olio-orolio-olive-oil-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125611&q=best&v=1&m=400&webp=1 ",  
+    }
+  ],
+  'ghee': [
+    {
+      id: 1,
+      name: "Aarong Dairy Pure Ghee",
+      price: 1735,
+      unit: "900 gm",
+      image:  
+        "https://chaldn.com/_mpimage/aarong-dairy-pure-ghee-900-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D179309&q=best&v=1&m=400&m=400&webp=1  ", 
+    }
+    ,{
+      id: 2,
+      name: "Aarong Dairy Pure Ghee 200 gm",
+      price: 390     ,
+      unit: "200 gm",
+      image:
+        "https://chaldn.com/_mpimage/aarong-dairy-pure-ghee-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D26926&q=low&v=1&m=400&webp=1   ",  
+    },{
+      id: 3,
+      name: "Pran Premium Ghee",
+      price:780,
+      unit: "400 gm",
+      image:
+        "https://chaldn.com/_mpimage/pran-premium-ghee-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D137123&q=best&v=1&m=400&webp=1                  ",
+    },{
+      id: 4,
+      name: "Ultra Ghee",
+      price: 1450,
+      unit: "900 gm",
+      image:
+        "https://chaldn.com/_mpimage/ultra-ghee-900-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D124774&q=best&v=1&m=400&m=400&webp=1 ",  
+    },
+    {
+      id: 5,
+      name: "Foodela Ghee",
+      price: 319,
+      unit: "200 gm",
+      image:  
+        "https://chaldn.com/_mpimage/foodela-ghee-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D178444&q=best&v=1&m=400&webp=1 ",  
+    },{
+      id: 6,
+      name: "Farm Fresh Ghee",
+      price: 380,
+      unit: "200 gm",
+      image:
+        "https://chaldn.com/_mpimage/farm-fresh-ghee-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122825&q=best&v=1&m=400&webp=1    ",
+    },{
+      id: 7,
+      name: "Radhuni Premium Ghee",
+      price: 255,
+      unit: "200 gm",
+      image:
+        "https://chaldn.com/_mpimage/radhuni-premium-ghee-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D158275&q=best&v=1&m=400&webp=1   ",  
+    }
+  ],
+  "colors-flavours": [
+    {
+      id: 1,
+      name: "Hershey's Chocolate Syrup",
+      price: 1029,
+      unit: "623 gm",
+      image:  
+        "https://chaldn.com/_mpimage/hersheys-chocolate-syrup-623-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103086&q=best&v=1&m=400&webp=1  ", 
+    }
+    ,{
+      id: 2,
+      name: "American Garden Pizza Sauce Classic",
+      price: 670   ,
+      unit: "397 ml",
+      image:
+        "https://chaldn.com/_mpimage/american-garden-pizza-sauce-classic-397-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177295&q=best&v=1&m=400&webp=1 ",
+    },{
+      id: 3,
+      name: "Hosen Gherkins Original Flavour Jar 680 gm",
+      price: 529 ,
+      unit: "680 gm",
+      image:
+        "https://chaldn.com/_mpimage/hosen-gherkins-original-flavour-jar-680-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D104889&q=best&v=1&m=400&m=400&webp=1 ", 
+    },{
+      id: 4,
+      name: "French's Classic Yellow Mustard",
+      price:460,
+      unit: "255 gm",
+      image:
+        "https://chaldn.com/_mpimage/frenchs-classic-yellow-mustard-255-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128597&q=best&v=1&m=400&webp=1 ",  
+    },
+    {
+      id: 5,
+      name: "Hershey's Strawberry Syrup",
+      price: 939 ,
+      unit: "623 gm",
+      image:  
+        "https://chaldn.com/_mpimage/hersheys-strawberry-syrup-623-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174494&q=best&v=1&m=400&webp=1 ", 
+    },{
+      id: 6,
+      name: "Kings Sunflower Oil PET",
+      price: 2100 ,
+      unit: "5 Ltr",
+      image:
+        "https://chaldn.com/_mpimage/kings-sunflower-oil-pet-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D182967&q=best&v=1&m=400&webp=1 ",  
+    },{
+      id: 7,
+      name: "Kikoman Premium Soy Sauce 600 ml",
+      price: 679,
+      unit: "600 ml",
+      image:
+        "https://chaldn.com/_mpimage/kikkoman-premium-soy-sauce-600-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D109792&q=best&v=1&m=400&m=400&webp=1    ", 
+    },{
+      id: 8,
+      name: "Ahmed White Vinegar 500 ml",
+      price: 70,
+      unit: "500 ml",
+      image:
+        "https://chaldn.com/_mpimage/ahmed-white-vinegar-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D123201&q=best&v=1&m=400&webp=1 ", 
+    }
+  ],
+  'ghee': [
+    {
+      id: 1,
+      name: "Aarong Dairy Pure Ghee",
+      price: 1735,
+      unit: "900 gm",
+      image:  
+        "https://chaldn.com/_mpimage/aarong-dairy-pure-ghee-900-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D179309&q=best&v=1&m=400&m=400&webp=1  ", 
+    }
+    ,{
+      id: 2,
+      name: "Aarong Dairy Pure Ghee 200 gm",
+      price: 390     ,
+      unit: "200 gm",
+      image:
+        "https://chaldn.com/_mpimage/aarong-dairy-pure-ghee-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D26926&q=low&v=1&m=400&webp=1   ",  
+    },{
+      id: 3,
+      name: "Pran Premium Ghee",
+      price:780,
+      unit: "400 gm",
+      image:
+        "https://chaldn.com/_mpimage/pran-premium-ghee-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D137123&q=best&v=1&m=400&webp=1                  ",
+    },{
+      id: 4,
+      name: "Ultra Ghee",
+      price: 1450,
+      unit: "900 gm",
+      image:
+        "https://chaldn.com/_mpimage/ultra-ghee-900-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D124774&q=best&v=1&m=400&m=400&webp=1 ",  
+    },
+    {
+      id: 5,
+      name: "Foodela Ghee",
+      price: 319,
+      unit: "200 gm",
+      image:  
+        "https://chaldn.com/_mpimage/foodela-ghee-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D178444&q=best&v=1&m=400&webp=1 ",  
+    },{
+      id: 6,
+      name: "Farm Fresh Ghee",
+      price: 380,
+      unit: "200 gm",
+      image:
+        "https://chaldn.com/_mpimage/farm-fresh-ghee-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122825&q=best&v=1&m=400&webp=1    ",
+    },{
+      id: 7,
+      name: "Radhuni Premium Ghee",
+      price: 255,
+      unit: "200 gm",
+      image:
+        "https://chaldn.com/_mpimage/radhuni-premium-ghee-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D158275&q=best&v=1&m=400&webp=1   ",  
+    }
+  ],
+
+
 };  
