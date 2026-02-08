@@ -1015,6 +1015,61 @@ export const PRODUCTS = {
         "https://chaldn.com/_mpimage/radhuni-premium-ghee-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D158275&q=best&v=1&m=400&webp=1   ",  
     }
   ],
+  "ready-mix": [
+    {
+      id: 1,
+      name: "Radhuni Falooda Mix Mango Flavor",
+      price: 190,
+      unit: "250 gm",
+      image:  
+        "https://chaldn.com/_mpimage/radhuni-falooda-mix-mango-flavor-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132524&q=best&v=1&m=400&webp=1  ", 
+    }
+    ,{
+      id: 2,
+      name: "Ahmed Firni Mix 150 gm",
+      price: 65    ,
+      unit: "150 gm",
+      image:
+        "https://chaldn.com/_mpimage/ahmed-firni-mix-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108014&q=best&v=1&m=400&webp=1  ",    ",  
+    },{
+      id: 3,
+      name: "Pran Premium Ghee",
+      price:780,
+      unit: "400 gm",
+      image:
+        "https://chaldn.com/_mpimage/pran-premium-ghee-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D137123&q=best&v=1&m=400&webp=1                  ",
+    },{
+      id: 4,
+      name: "Ultra Ghee",
+      price: 1450,
+      unit: "900 gm",
+      image:
+        "https://chaldn.com/_mpimage/ultra-ghee-900-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D124774&q=best&v=1&m=400&m=400&webp=1 ",  
+    },
+    {
+      id: 5,
+      name: "Foodela Ghee",
+      price: 319,
+      unit: "200 gm",
+      image:  
+        "https://chaldn.com/_mpimage/foodela-ghee-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D178444&q=best&v=1&m=400&webp=1 ",  
+    },{
+      id: 6,
+      name: "Farm Fresh Ghee",
+      price: 380,
+      unit: "200 gm",
+      image:
+        "https://chaldn.com/_mpimage/farm-fresh-ghee-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122825&q=best&v=1&m=400&webp=1    ",
+    },{
+      id: 7,
+      name: "Radhuni Premium Ghee",
+      price: 255,
+      unit: "200 gm",
+      image:
+        "https://chaldn.com/_mpimage/radhuni-premium-ghee-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D158275&q=best&v=1&m=400&webp=1   ",  
+    }
+  ],
+
 
 
 };  
