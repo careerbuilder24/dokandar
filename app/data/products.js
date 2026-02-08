@@ -1647,35 +1647,114 @@ export const PRODUCTS = {
         "https://chaldn.com/_mpimage/mortein-2-in-1-mosquito-cockroach-killer-aerosol-spray-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D176999&q=best&v=1&m=400&webp=1   ",
     },{
       id: 2,
-      name: "Ms",
-      price: 160,
-      unit: "2 pcs",
+      name: "Mortein Mosquito Repellent Insta Vaporizer Machine Refill 1 pcs",
+      price: 220,
+      unit: "1 pcs",
       image:
         "https://chaldn.com/_mpimage/mortein-mosquito-repellent-insta-vaporizer-machine-refill-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D168783&q=best&v=1&m=400&webp=1 " ,
     },{
       id: 3,
-      name: "Fresh Hand Towel 250 Sheet 1 pcs",
-      price:110,
-      unit: "250 Sheet",
+      name: "Godrej Red Hit Cockroaches Spray Fresh Fragrance 625 ml",
+      price:580,
+      unit: "625 ml",
       image:
-        "https://chaldn.com/_mpimage/fresh-hand-towel-250-sheet-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D176851&q=best&v=1&m=400&webp=1           ",
+        "https://chaldn.com/_mpimage/godrej-red-hit-cockroaches-spray-fresh-fragrance-625-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D110126&q=best&v=1&m=400&webp=1           ",
     },{
       id: 4,
-      name: "Partex Cleen Toilet Tissue 2 pcs",
-      price: 48     ,
-      unit: "2 pcs",
+      name: "Vaseline Mosquito Defence Lotion 100 ml",
+      price: 200     ,
+      unit: "100 ml",
       image:
-        "https://chaldn.com/_mpimage/partex-cleen-toilet-tissue-2-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D168869&q=best&v=1&m=400&webp=1    "
+        "https://chaldn.com/_mpimage/vaseline-mosquito-defence-lotion-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D165256&q=best&v=1&m=400&webp=1    "
     },
     {
       id: 5,
-      name: "Partex Cleen Toilet Tissue Paper Luxury 3 Ply 1 pcs",
-      price: 38  ,
+      name: "Black Hit Anti Mosquito Swatter Racquet 1 pcs",
+      price: 650,
       unit: "1 pcs",
       image:  
-        "https://chaldn.com/_mpimage/partex-cleen-toilet-tissue-paper-luxury-3-ply-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177089&q=best&v=1&m=400&webp=1 ",
+        "https://chaldn.com/_mpimage/black-hit-anti-mosquito-swatter-racquet-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D140664&q=best&v=1&m=400&m=400&webp=1 ",
     }
+    
   ],  
+  "floor-glass-cleaners":[
+    {
+      id: 1,
+      name: "Lizol Floor Cleaner Citrus Disinfectant Surface 1 Ltr",
+      price:300 ,
+      unit: "1 Ltr",
+      image:  
+        "https://chaldn.com/_mpimage/lizol-floor-cleaner-citrus-disinfectant-surface-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D179249&q=best&v=1&m=400&webp=1   ",
+    },{
+      id: 2,
+      name: "Lizol Disinfectant Surface Floor Cleaner Lavender 500 ml",
+      price: 160,
+      unit: "500 ml",
+      image:
+        "https://chaldn.com/_mpimage/lizol-disinfectant-surface-floor-cleaner-lavender-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D179251&q=best&v=1&m=400&webp=1   " ,
+    },{
+      id: 3,
+      name: "Mr. Brasso Glass Household Cleaner Refill  250 ml",
+      price:250,
+      unit: " 250 ml",
+      image:
+        "https://chaldn.com/_mpimage/mr-brasso-glass-household-cleaner-refill-free-100-ml-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174400&q=best&v=1&m=400&webp=1        ",
+    },{
+      id: 4,
+      name: "Lizol Floor Cleaner Floral Disinfectant Surface 1 Ltr",
+      price: 300     ,
+      unit: "1 Ltr",
+      image:
+        "https://chaldn.com/_mpimage/lizol-floor-cleaner-floral-disinfectant-surface-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167888&q=best&v=1&m=400&webp=1   "
+    },
+    {
+      id: 5,
+      name: "Amana Glass Household Cleaner 5 Ltr",
+      price: 650,
+      unit: "5 Ltr",
+      image:  
+        "https://chaldn.com/_mpimage/amana-glass-household-cleaner-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D139043&q=best&v=1&m=400&m=400&webp=1 ",
+    }
+  ],
+  "cleaning-accessories":[
+    {
+      id: 1,
+      name: "Lizol Floor Cleaner Citrus Disinfectant Surface 1 Ltr",
+      price:300 ,
+      unit: "1 Ltr",
+      image:  
+        "https://chaldn.com/_mpimage/lizol-floor-cleaner-citrus-disinfectant-surface-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D179249&q=best&v=1&m=400&webp=1   ",
+    },{
+      id: 2,
+      name: "Lizol Disinfectant Surface Floor Cleaner Lavender 500 ml",
+      price: 160,
+      unit: "500 ml",
+      image:
+        "https://chaldn.com/_mpimage/lizol-disinfectant-surface-floor-cleaner-lavender-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D179251&q=best&v=1&m=400&webp=1   " ,
+    },{
+      id: 3,
+      name: "Mr. Brasso Glass Household Cleaner Refill  250 ml",
+      price:250,
+      unit: " 250 ml",
+      image:
+        "https://chaldn.com/_mpimage/mr-brasso-glass-household-cleaner-refill-free-100-ml-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174400&q=best&v=1&m=400&webp=1        ",
+    },{
+      id: 4,
+      name: "Lizol Floor Cleaner Floral Disinfectant Surface 1 Ltr",
+      price: 300     ,
+      unit: "1 Ltr",
+      image:
+        "https://chaldn.com/_mpimage/lizol-floor-cleaner-floral-disinfectant-surface-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167888&q=best&v=1&m=400&webp=1   "
+    },
+    {
+      id: 5,
+      name: "Amana Glass Household Cleaner 5 Ltr",
+      price: 650,
+      unit: "5 Ltr",
+      image:  
+        "https://chaldn.com/_mpimage/amana-glass-household-cleaner-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D139043&q=best&v=1&m=400&m=400&webp=1 ",
+    }
+  ],
 
 
 
