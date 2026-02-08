@@ -259,6 +259,31 @@ const CATEGORY_MAP = {
       },
     ],
   },
+  "beauty-products": {
+    title: "Beauty Products",
+    subcategories: [
+      {
+        title: "Women's Care",
+        image:
+          "https://chaldn.com/_mpimage/womens-care?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D166460&q=low&v=1&m=400&webp=1  ",
+      },
+      {
+        title: "Men's Care",
+        image:
+          "https://chaldn.com/_mpimage/mens-care?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D166459&q=low&v=1&m=400&webp=1  ",
+      },
+      {
+        title: "Skin Care",
+        image:
+          "https://chaldn.com/_mpimage/skin-care?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D116656&q=low&v=1&m=400&webp=1  ",
+      },
+      {
+        title: "Oral Care",
+        image:"https://chaldn.com/_mpimage/oral-care?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D116654&q=low&v=1&m=400&webp=1  ",
+      },
+    ],
+  },
+  
 };
 
 /* ================= PAGE ================= */

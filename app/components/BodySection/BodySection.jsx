@@ -9,8 +9,8 @@ export default function BodySection() {
 
         {/* ================= POPULAR CATEGORIES ================= */}
         <div className="mb-14">
-          <div className="flex items-center justify-between mb-6">
-            <h2 className="text-lg font-medium text-black ">
+          <div className="n mb-6 ">
+            <h2 className="text-lg font-medium text-black  text-center ">
               Popular Categories
             </h2>
 
@@ -108,6 +108,7 @@ const categories = [
     slug: "beauty-products",
     image: "https://png.pngtree.com/png-vector/20240818/ourmid/pngtree-geset-of-luxury-beauty-cosmetic-makeup-bdifferent-png-image_13532167.png",
   },
+  
 ];
 
 const brands = [

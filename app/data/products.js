@@ -1030,45 +1030,653 @@ export const PRODUCTS = {
       price: 65    ,
       unit: "150 gm",
       image:
-        "https://chaldn.com/_mpimage/ahmed-firni-mix-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108014&q=best&v=1&m=400&webp=1  ",    ",  
-    },{
+        "https://chaldn.com/_mpimage/ahmed-firni-mix-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108014&q=best&v=1&m=400&webp=1  ",    
+    },
+    {
       id: 3,
-      name: "Pran Premium Ghee",
-      price:780,
-      unit: "400 gm",
+      name: "Ahmed Chicken Masala 100 gm",
+      price: 85,
+      unit: "100 gm",
       image:
-        "https://chaldn.com/_mpimage/pran-premium-ghee-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D137123&q=best&v=1&m=400&webp=1                  ",
+        "https://chaldn.com/_mpimage/ahmed-chicken-masala-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122976&q=best&v=1&m=400&webp=1                  ",
     },{
       id: 4,
-      name: "Ultra Ghee",
-      price: 1450,
-      unit: "900 gm",
+      name: "Ahmed Fresh Meat Curry Masala 100 gm",
+      price: 85,
+      unit: "100 gm",
       image:
-        "https://chaldn.com/_mpimage/ultra-ghee-900-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D124774&q=best&v=1&m=400&m=400&webp=1 ",  
+        "https://chaldn.com/_mpimage/fresh-meat-curry-masala-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D96336&q=best&v=1&m=400&webp=1 ", 
     },
     {
       id: 5,
-      name: "Foodela Ghee",
-      price: 319,
-      unit: "200 gm",
+      name: "Nestle Maggi Shad-e-Magic Seasoning Mix Sachet 4 gm",
+      price: 5,
+      unit: "4 gm",
       image:  
-        "https://chaldn.com/_mpimage/foodela-ghee-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D178444&q=best&v=1&m=400&webp=1 ",  
+        "https://chaldn.com/_mpimage/nestle-maggi-shaad-e-magic-seasoning-mix-sachet-4-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131313&q=best&v=1&m=400&webp=1 ",  
     },{
       id: 6,
-      name: "Farm Fresh Ghee",
-      price: 380,
-      unit: "200 gm",
+      name: "Radhuni Kala Bhuna Masala 80 gm",
+      price: 120,
+      unit: "80 gm",
       image:
-        "https://chaldn.com/_mpimage/farm-fresh-ghee-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122825&q=best&v=1&m=400&webp=1    ",
+        "https://chaldn.com/_mpimage/radhuni-kala-bhuna-masala-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D110486&q=best&v=1&m=400&webp=1   ",
     },{
       id: 7,
-      name: "Radhuni Premium Ghee",
-      price: 255,
-      unit: "200 gm",
+      name: "Radhuni Fried Rice Seasoning 48 gm (6 pcs)",
+      price: 60,
+      unit: "6 pcs",
       image:
-        "https://chaldn.com/_mpimage/radhuni-premium-ghee-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D158275&q=best&v=1&m=400&webp=1   ",  
+        "https://chaldn.com/_mpimage/fresh-biryani-masala-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D96331&q=best&v=1&m=400&webp=1  ",  
     }
   ],
+  "premium-ingredients": [
+    {
+      id: 1,
+      name: "Farmers Gold Raw Turmeric Powder 100 gm",
+      price: 120,
+      unit: "100 gm",
+      image:  
+        "https://chaldn.com/_mpimage/farmers-gold-raw-turmeric-powder-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131651&q=best&v=1&m=400&webp=1  ", 
+    }
+    ,{
+      id: 2,
+      name: "Farmers Gold Protein Powder 200 gm",
+      price: 450    ,
+      unit: "200 gm",
+      image:
+        "https://chaldn.com/_mpimage/farmers-gold-protein-powder-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131671&q=best&v=1&m=400&webp=1  ",    
+    },
+    {
+      id: 3,
+      name: "Farmers Gold Kaun Rice 500 gm",
+      price: 120,
+      unit: "500 gm",
+      image:
+        "https://chaldn.com/_mpimage/farmers-gold-kaun-rice-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128397&q=best&v=1&m=400&m=400&webp=1                 ",
+    },{
+      id: 4,
+      name: "Farmers Gold Black Seed With Sesame Seed 100 gm",
+      price: 120,
+      unit: "100 gm",
+      image:
+        "https://chaldn.com/_mpimage/ligion-black-seed-with-sesame-seed-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D138645&q=best&v=1&m=400&m=400&webp=1 ", 
+    },
+    {
+      id: 5,
+      name: "BPM White Binni Rice 1 kg",
+      price: 170,
+      unit: "1 kg",
+      image:  
+        "https://chaldn.com/_mpimage/bpm-white-binni-rice-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48068&q=best&v=1&m=400&m=400&webp=1 ",  
+    },{
+      id: 6,
+      name: "Saffron Jafran 1 gm",
+      price: 360,
+      unit: "1 gm",
+      image:
+        "https://chaldn.com/_mpimage/saffron-jafran-1-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D18137&q=best&v=1&m=400&webp=1   ",
+    },{
+      id: 7,
+      name: "Farmers Gold Oshwagandha Powder 100 gm",
+      price: 140,
+      unit: "100 gm",
+      image:
+        "https://chaldn.com/_mpimage/farmers-gold-oshwagandha-powder-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128398&q=best&v=1&m=400&webp=1  ",  
+    }
+  ],
+  "tea" : [
+    {
+      id: 1,
+      name: "Tata Tea Premium 400 gm",
+      price: 200,
+      unit: "400 gm",
+      image:  
+        "https://chaldn.com/_mpimage/tata-tea-premium-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D161107&q=best&v=1&m=400&webp=1  ", 
+    }
+    ,{
+      id: 2,
+      name: "Dilmah Premium Ceylon Tea 50 gm x 25 pcs",
+      price: 450    ,
+      unit: "50 gm x 25 pcs",
+      image:
+        "https://chaldn.com/_mpimage/dilmah-premium-ceylon-tea-50-gm-25-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D180154&q=low&v=1&m=400&webp=1  ",    
+    },
+    {
+      id: 3,
+      name: "Ispahani Mirzapore Tea Bag 50 pcs",
+      price: 120,
+      unit: "50 pcs",
+      image:
+        "https://chaldn.com/_mpimage/ispahani-mirzapore-tea-bag-50-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D107252&q=best&v=1&m=400&webp=1                ",
+    },{
+      id: 4,
+      name: "Kazi Kazi Organic Orthodox Pyramid Oolong Tea 20 pcs 40 gm",
+      price: 210,
+      unit: "40 gm",
+      image:
+        "https://chaldn.com/_mpimage/kazi-kazi-organic-orthodox-pyramid-oolong-tea-20-pcs-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167909&q=best&v=1&m=400&webp=1 ", 
+    },
+    {
+      id: 5,
+      name: "Dr HH Black Tea With Honey Tea Bag 30 pcs 60 gm",
+      price: 170,
+      unit: "60 gm",
+      image:  
+        "https://chaldn.com/_mpimage/dr-hh-black-tea-with-honey-tea-bag-30-pcs-60-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D96241&q=best&v=1&m=400&webp=1 ",  
+    },{
+      id: 6,
+      name: "Dilmah Geen Tea With Jasmine 40 gm x 20 pcs",
+      price: 600,
+      unit: "40 gm x 20 pcs",
+      image:
+        "https://chaldn.com/_mpimage/dilmah-geen-tea-with-jasmine-40-gm-20-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D180151&q=best&v=1&m=400&webp=1  ",
+    },{
+      id: 7,
+      name: "Kazi Kazi Organic Chamomile Herbal Infusion Tea 25 pcs 375 gm",
+      price: 490,
+      unit: "375 gm",
+      image:
+        "https://chaldn.com/_mpimage/kazi-kazi-organic-chamomile-herbal-infusion-tea-25-pcs-375-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167913&q=best&v=1&m=400&webp=1  ",  
+    },
+    {
+      id: 8,
+      name: "Kazi Kazi Organic Moringa Herbal Infusion Tea 25 pcs 375 gm",
+      price: 280,
+      unit: "375 gm",
+      image:
+        "https://chaldn.com/_mpimage/kazi-kazi-organic-moringa-herbal-infusion-tea-25-pcs-375-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167914&q=best&v=1&m=400&webp=1  ",  
+    },
+    {
+      id: 9,
+      name: "Kazi Kazi Organic Sleepy Tea 25 pcs 375 gm",
+      price: 490,
+      unit: "375 gm",
+      image:
+        "https://chaldn.com/_mpimage/kazi-kazi-organic-sleepy-tea-25-pcs-375-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167912&q=best&v=1&m=400&webp=1  ",  
+    }
+  ],
+  "soft-drinks":[
+    {
+      id: 1,
+      name: "Rooh Afza Free Ispaghol Bhusi 20 gm x 750 ml",
+      price:550,
+      unit: "750 ml",
+      image:  
+        "https://chaldn.com/_mpimage/rooh-afza-free-ispaghol-bhusi-20-gm-750-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D170046&q=best&v=1&m=400&webp=1  ",  
+    },{
+      id: 2,
+      name: "RC Cola 2 Ltr",
+      price: 110   ,
+      unit: "2 Ltr",
+      image:
+        "https://chaldn.com/_mpimage/rc-cola-2-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D151177&q=best&v=1&m=400&webp=1 ",
+    },{
+      id: 3,
+      name: "Sprite 1 Ltr",
+      price: 80,
+      unit: "1 Ltr",
+      image:
+        "https://chaldn.com/_mpimage/sprite-mint-1ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174353&q=best&v=1&m=400&webp=1                ",
+    },{
+      id: 4,
+      name: "Fanta Orange Flavored 1 Ltr",
+      price:85,
+      unit: "1 Ltr",
+      image:
+        "https://chaldn.com/_mpimage/fanta-orange-flavored-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D164610&q=best&v=1&m=400&webp=1 ",
+    },
+    {
+      id: 5,
+      name: "Clemon 1 Ltr",
+      price: 60,
+      unit: "1 Ltr",
+      image:  
+        "https://chaldn.com/_mpimage/clemon-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126975&q=best&v=1&m=400&m=400&webp=1  ",
+    },{
+      id: 6,
+      name: "Mojo Soft Drink 2 Ltr",
+      price: 110,
+      unit: "2 Ltr",
+      image:
+        "https://chaldn.com/_mpimage/mojo-soft-drink-2-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130804&q=best&v=1&m=400&webp=1 ",
+    },{
+      id: 7,
+      name: "Royal Crown Club Soda PET 500 ml",
+      price: 35,
+      unit: "500 ml",
+      image:
+        "https://chaldn.com/_mpimage/royal-crown-club-soda-pet-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D141964&q=best&v=1&m=400&webp=1      ",
+    },
+    {
+      id: 8,
+      name: "7-Up 1.75 Ltr",
+      price: 120,
+      unit: "1.75 Ltr",
+      image:
+        "https://chaldn.com/_mpimage/7-up-175-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177199&q=best&v=1&m=400&webp=1  ",
+    },
+    {
+      id: 9,
+      name: "Houston Soft Drink Can 250 ml",
+      price:40,
+      unit: "250 ml",
+      image:
+        "https://chaldn.com/_mpimage/houston-soft-drink-can-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D97110&q=best&v=1&m=400&webp=1  ",
+    }
+  ],
+  "coffee":[
+    {
+      id: 1,
+      name: "Nestle Nescafe Gold Instant Coffee Jar 95 gm",
+      price:950,
+      unit: "95 gm",
+      image:  
+        "https://chaldn.com/_mpimage/nestle-nescafe-gold-instant-coffee-jar-95-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D181467&q=best&v=1&m=400&webp=1  ",
+    },{
+      id: 2,
+      name: "Lavazza Crema E Gusto Classic Coffee 250 gm",
+      price: 1250,
+      unit: "250 gm",
+      image:
+        "https://chaldn.com/_mpimage/lavazza-crema-e-gusto-classico-coffee-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185050&q=best&v=1&m=400&webp=1 ",
+    },{
+      id: 3,
+      name: "Nestle Coffee Mate Coffee Creamer Box 450 gm",
+      price: 380,
+      unit: "450 gm",
+      image:
+        "https://chaldn.com/_mpimage/nestle-coffee-mate-coffee-creamer-box-450-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D123151&q=best&v=1&m=400&webp=1              ",
+    },{
+      id: 4,
+      name: "Nestle Nescafe Classic Instant Coffee Pouch Pack 200 gm",
+      price:950     ,
+      unit: "200 gm",
+      image:
+        "https://chaldn.com/_mpimage/nestle-nescafe-classic-instant-coffee-pouch-pack-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D120413&q=best&v=1&m=400&webp=1 ",
+    },
+    {
+      id: 5,
+      name: "MacCoffee Instant Coffee Pouch 200 gm",
+      price: 850,
+      unit: "200 gm",
+      image:  
+        "https://chaldn.com/_mpimage/maccoffee-instant-coffee-pouch-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130479&q=best&v=1&m=400&webp=1  ",
+    },{
+      id: 6,
+      name: "Mojo Soft Drink 2 Ltr",
+      price: 110,
+      unit: "2 Ltr",
+      image:
+        "https://chaldn.com/_mpimage/mojo-soft-drink-2-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130804&q=best&v=1&m=400&webp=1 ",
+    },{
+      id: 7,
+      name: "MacCoffee Gold Jar 100 gm",
+      price: 850,
+      unit: "100 gm",
+      image:
+        "https://chaldn.com/_mpimage/maccoffee-gold-jar-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130478&q=best&v=1&m=400&webp=1      ",
+    },
+    {
+      id: 8,
+      name: "Tora Bika Creamy Latte 25 gm (6 pcs)",
+      price: 300,
+      unit: "25 gm 6pcs",
+      image:
+        "https://chaldn.com/_mpimage/tora-bika-creamy-latte-25-gm-6-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D137191&q=best&v=1&m=400&m=400&webp=1  ",
+    },
+    {
+      id: 9,
+      name: "Kopiko Brown Coffee 20 gm (6 pcs)",
+      price: 279,
+      unit: "20 gm 6pcs",
+      image:
+        "https://chaldn.com/_mpimage/kopiko-brown-coffee-20-gm-6-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D113370&q=best&v=1&m=400&webp=1 ",
+    }
+  ],
+  "juice":[
+    {
+      id: 1,
+      name: "Latina 100% Juice Orange 1 Ltr",
+      price:285 ,
+      unit: "1 Ltr",
+      image:  
+        "https://chaldn.com/_mpimage/latina-100-juice-orange-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45878&q=best&v=1&m=400&webp=1  ",
+    },{
+      id: 2,
+      name: "Nutrilife Guava Juice 1 Ltr",
+      price: 295,
+      unit: "1 Ltr",
+      image:
+        "https://chaldn.com/_mpimage/nutrilife-guava-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D153632&q=best&v=1&m=400&webp=1 ",
+    },{
+      id: 3,
+      name: "Latina 100% Juice Apple 1 Ltr",
+      price: 285,
+      unit: "1 Ltr",
+      image:
+        "https://chaldn.com/_mpimage/latina-100-juice-apple-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D45877&q=best&v=1&m=400&webp=1              ",
+    },{
+      id: 4,
+      name: "Nutrilife Apple Juice 160 ml",
+      price:  45,
+      unit: "160 ml",
+      image:
+        "https://chaldn.com/_mpimage/nutrilife-apple-juice-160-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D148679&q=best&v=1&m=400&webp=1 ",
+    },
+    {
+      id: 5,
+      name: "Nutrilife Pomegranate Juice 1 Ltr",
+      price: 350,
+      unit: "1 Ltr",
+      image:  
+        "https://chaldn.com/_mpimage/nutrilife-pomegranate-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D153633&q=best&v=1&m=400&webp=1 ",
+    },{
+      id: 6,
+      name: "Bruvana Sports Electrolyte Beverage Pineapple Flavor 250 ml",
+      price:  40,
+      unit: "250 ml",
+      image:
+        "https://chaldn.com/_mpimage/bruvana-sports-electrolyte-beverage-pineapple-flavor-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D148922&q=best&v=1&m=400&webp=1 ",
+    },{
+      id: 7,
+      name: "Bruvana Sports Electrolyte Beverage Mango Flavor 250 ml",
+      price: 40,
+      unit: "250 ml",
+      image:
+        "https://chaldn.com/_mpimage/bruvana-sports-electrolyte-beverage-mango-flavor-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D138827&q=best&v=1&m=400&webp=1      ",
+    },
+    {
+      id: 8,
+      name: "Bruvana Sports Electrolyte Beverage Litchi Flavor 250 ml",
+      price: 40,
+      unit: "250 ml",
+      image:
+        "https://chaldn.com/_mpimage/bruvana-sports-electrolyte-beverage-litchi-flavor-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D138826&q=best&v=1&m=400&webp=1  ",
+    },
+    {
+      id: 9,
+      name: "Malee Lychee Juice 1 Ltr",
+      price: 630,
+      unit: "1 Ltr",
+      image:
+        "https://chaldn.com/_mpimage/malee-lychee-juice-1-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D160707&q=best&v=1&m=400&webp=1 ",
+    }
+  ],
+  "water":[
+    {
+      id: 1,
+      name: "Mum Drinking Water 5 Ltr ",
+      price:105 ,
+      unit: "5 Ltr",
+      image:  
+        "https://chaldn.com/_mpimage/mum-drinking-water-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D94763&q=best&v=1&m=400&webp=1  ",
+    },{
+      id: 2,
+      name: "Super Fresh Drinking Water 5 Ltr",
+      price: 100,
+      unit: "5 Ltr",
+      image:
+        "https://chaldn.com/_mpimage/super-fresh-drinking-water-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D135917&q=best&v=1&m=400&webp=1   ",
+    },{
+      id: 3,
+      name: "Evian Natural Mineral Water 1.5 Ltr",
+      price: 690,
+      unit: "1 Ltr",
+      image:
+        "https://chaldn.com/_mpimage/evian-natural-mineral-water-15-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108994&q=best&v=1&m=400&m=400&webp=1            ",
+    },{
+      id: 4,
+      name: "Perrier Mineral Water 750 ml",
+      price:  550,
+      unit: "750 ml",
+      image:
+        "https://chaldn.com/_mpimage/perrier-mineral-water-750-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70056&q=best&v=1&m=400&m=400&webp=1 ",
+    },
+    {
+      id: 5,
+      name: "Ion Alkaline Drinking Water 5 Ltr",
+      price: 550,
+      unit: "5 Ltr",
+      image:  
+        "https://chaldn.com/_mpimage/ion-alkaline-drinking-water-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D165726&q=best&v=1&m=400&webp=1 ",
+    }
+  ],
+  "syrups-powder-drinks":[
+    {
+      id: 1,
+      name: "Tang Orange Flavoured Instant Drink Powder Tub 2 kg",
+      price:1905 ,
+      unit: "2 kg",
+      image:  
+        "https://chaldn.com/_mpimage/tang-orange-flavoured-instant-drink-powder-tub-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D157574&q=best&v=1&m=400&webp=1   ",
+    },{
+      id: 2,
+      name: "Tang Mango Flavoured Instant Drink Powder Tub 2 kg",
+      price: 1905,
+      unit: "2 kg",
+      image:
+        "https://chaldn.com/_mpimage/tang-mango-flavoured-instant-drink-powder-tub-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D153841&q=best&v=1&m=400&webp=1   ",
+    },{
+      id: 3,
+      name: "Country Time Pink Lemonade Powder Drink 538 gm",
+      price: 1580,
+      unit: "538 gm",
+      image:
+        "https://chaldn.com/_mpimage/country-time-pink-lemonade-powder-drink-538-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60535&q=low&v=1&m=400&webp=1           ",
+    },{
+      id: 4,
+      name: "Country Time Lemonade Powder Drink 538 gm",
+      price: 1580,
+      unit: "538 gm",
+      image:
+        "https://chaldn.com/_mpimage/country-time-lemonade-powder-drink-538-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60536&q=low&v=1&m=400&webp=1 ",
+    },
+    {
+      id: 5,
+      name: "Mothers Horlicks Health and Nutrition Drink Bib 350 gm",
+      price: 620,
+      unit: "350 gm",
+      image:  
+        "https://chaldn.com/_mpimage/mothers-horlicks-health-and-nutrition-drink-bib-350-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128293&q=best&v=1&m=400&webp=1 ",
+    }
+  ],
+  "dishwashing-supplies":[
+    {
+      id: 1,
+      name: "ACI Wonder Antibacterial Dish Washing Liquid 500 ml",
+      price:150 ,
+      unit: "500 ml",
+      image:  
+        "https://chaldn.com/_mpimage/aci-wonder-antibacterial-dish-washing-liquid-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D122873&q=best&v=1&m=400&webp=1   ",
+    },{
+      id: 2,
+      name: "Shiny Dish Washing Liquid Lime 500 ml",
+      price: 300,
+      unit: "500 ml",
+      image:
+        "https://chaldn.com/_mpimage/shiny-dishwashing-liquid-lime-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D54410&q=best&v=1&m=400&m=400&webp=1   ",
+    },{
+      id: 3,
+      name: "Trix Dish Washing Liquid Lemon Bottle 500 ml",
+      price: 250,
+      unit: "500 ml",
+      image:
+        "https://chaldn.com/_mpimage/trix-dishwashing-liquid-lemon-bottle-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D179252&q=best&v=1&m=400&webp=1           ",
+    },{
+      id: 4,
+      name: "Trix Dish Washing Liquid Mega Refill Super Saver Pack 5 Ltr",
+      price: 1200,
+      unit: "5 Ltr",
+      image:
+        "https://chaldn.com/_mpimage/trix-dishwashing-liquid-mega-refill-super-saver-pack-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D186628&q=best&v=1&m=400&webp=1 ",
+    },
+    {
+      id: 5,
+      name: "Magiclean Kitchen Cleaner Green Apple 500 ml",
+      price: 690,
+      unit: "500 ml",
+      image:  
+        "https://chaldn.com/_mpimage/magiclean-kitchen-cleaner-green-apple-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131892&q=best&v=1&m=400&m=400&webp=1 ",
+    }
+  ],
+  "laundry":[
+    {
+      id: 1,
+      name: "Wheel Washing Powder 2 in 1 Clean & Fresh 1 kg",
+      price:150 ,
+      unit: "1 kg",
+      image:  
+        "https://chaldn.com/_mpimage/wheel-washing-powder-2-in-1-clean-fresh-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128372&q=best&v=1&m=400&webp=1   ",
+    },{
+      id: 2,
+      name: "Rin Advanced Detergent Powder 2 kg",
+      price: 300,
+      unit: "2 kg",
+      image:
+        "https://chaldn.com/_mpimage/rin-advanced-detergent-powder-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D138534&q=best&v=1&m=400&webp=1" , 
+    },{
+      id: 3,
+      name: "Vanish Colour Safe Detergent Booster 10x Oxi Power Free Mug 400 ml",
+      price: 250,
+      unit: "400 ml",
+      image:
+        "https://chaldn.com/_mpimage/vanish-colour-safe-detergent-booster-10x-oxi-power-free-mug-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D183815&q=best&v=1&m=400&webp=1           ",
+    },{
+      id: 4,
+      name: "Jet Aroma Detergent Powder Paper Pack 1 kg",
+      price: 320,
+      unit: "1 kg",
+      image:
+        "https://chaldn.com/_mpimage/jet-aroma-detergent-powder-paper-pack-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D160839&q=best&v=1&m=400&webp=1 ",
+    },
+    {
+      id: 5,
+      name: "Jet Classic Detergent Powder Paper Pack 500 gm",
+      price: 690,
+      unit: "500 gm",
+      image:  
+        "https://chaldn.com/_mpimage/jet-classic-detergent-powder-paper-pack-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D98622&q=best&v=1&m=400&webp=1 ",
+    }
+  ],
+  "toilet-cleaners":[
+    {
+      id: 1,
+      name: "Harpic Toilet Cleaning Liquid 1 Ltr + Drain Xpert Powder 45 gm Combo",
+      price:369 ,
+      unit: "1 Ltr + 45 gm",
+      image:  
+        "https://chaldn.com/_mpimage/harpic-toilet-cleaning-liquid-1-ltr-drain-xpert-powder-45-gm-combo?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D184297&q=best&v=1&m=400&webp=1  ",
+    },{
+      id: 2,
+      name: "Harpic Flushmatic Marine In Cistern Toilet Cleaner Block 50 gm 1 pcs",
+      price: 250,
+      unit: "each",
+      image:
+        "https://chaldn.com/_mpimage/harpic-flushmatic-marine-in-cistern-toilet-cleaner-block-50-gm-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D169636&q=best&v=1&m=400&webp=1" ,
+    },{
+      id: 3,
+      name: "Harpic Liquid Toilet Cleaner Original 750 ml",
+      price:180,
+      unit: "750 ml",
+      image:
+        "https://chaldn.com/_mpimage/harpic-liquid-toilet-cleaner-original-750-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D169613&q=best&v=1&m=400&webp=1           ",
+    },{
+      id: 4,
+      name: "Harpic Trix Lizol Total Cleaning Solution Combo 1.75 Ltr",
+      price: 490,
+      unit: "1.75 Ltr",
+      image:
+        "https://chaldn.com/_mpimage/harpic-trix-lizol-total-cleaning-solution-combo-175-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D169614&q=best&v=1&m=400&webp=1 ",
+    },
+    {
+      id: 5,
+      name: "Finis Phenyle Extra Strong Toilet Floor Cleaner 3 Ltr",
+      price: 185   ,
+      unit: "3 Ltr",
+      image:  
+        "https://chaldn.com/_mpimage/finis-phenyle-extra-strong-toilet-floor-cleaner-3-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D161207&q=best&v=1&m=400&webp=1 ",
+    }
+  ],
+  "napkins-paper-products":[
+    {
+      id: 1,
+      name: "Bashundhara Toilet Tissue White Extra Savings Pack 4 pcs",
+      price:100 ,
+      unit: "4 pcs",
+      image:  
+        "https://chaldn.com/_mpimage/bashundhara-toilet-tissue-white-extra-savings-pack-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D100127&q=best&v=1&m=400&webp=1  ",
+    },{
+      id: 2,
+      name: "Bashundhara Kitchen Towel Rolls 2 pcs",
+      price: 160,
+      unit: "2 pcs",
+      image:
+        "https://chaldn.com/_mpimage/bashundhara-kitchen-towel-rolls-2-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D99748&q=best&v=1&m=400&webp=1" ,
+    },{
+      id: 3,
+      name: "Fresh Hand Towel 250 Sheet 1 pcs",
+      price:110,
+      unit: "250 Sheet",
+      image:
+        "https://chaldn.com/_mpimage/fresh-hand-towel-250-sheet-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D176851&q=best&v=1&m=400&webp=1           ",
+    },{
+      id: 4,
+      name: "Partex Cleen Toilet Tissue 2 pcs",
+      price: 48     ,
+      unit: "2 pcs",
+      image:
+        "https://chaldn.com/_mpimage/partex-cleen-toilet-tissue-2-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D168869&q=best&v=1&m=400&webp=1    "
+    },
+    {
+      id: 5,
+      name: "Partex Cleen Toilet Tissue Paper Luxury 3 Ply 1 pcs",
+      price: 38  ,
+      unit: "1 pcs",
+      image:  
+        "https://chaldn.com/_mpimage/partex-cleen-toilet-tissue-paper-luxury-3-ply-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177089&q=best&v=1&m=400&webp=1 ",
+    }
+  ],
+  "pest-control":[
+    {
+      id: 1,
+      name: "Mortein 2 in 1 Mosquito & Cockroach Killer Aerosol Spray 400 ml",
+      price:415 ,
+      unit: "400 ml",
+      image:  
+        "https://chaldn.com/_mpimage/mortein-2-in-1-mosquito-cockroach-killer-aerosol-spray-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D176999&q=best&v=1&m=400&webp=1   ",
+    },{
+      id: 2,
+      name: "Ms",
+      price: 160,
+      unit: "2 pcs",
+      image:
+        "https://chaldn.com/_mpimage/mortein-mosquito-repellent-insta-vaporizer-machine-refill-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D168783&q=best&v=1&m=400&webp=1 " ,
+    },{
+      id: 3,
+      name: "Fresh Hand Towel 250 Sheet 1 pcs",
+      price:110,
+      unit: "250 Sheet",
+      image:
+        "https://chaldn.com/_mpimage/fresh-hand-towel-250-sheet-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D176851&q=best&v=1&m=400&webp=1           ",
+    },{
+      id: 4,
+      name: "Partex Cleen Toilet Tissue 2 pcs",
+      price: 48     ,
+      unit: "2 pcs",
+      image:
+        "https://chaldn.com/_mpimage/partex-cleen-toilet-tissue-2-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D168869&q=best&v=1&m=400&webp=1    "
+    },
+    {
+      id: 5,
+      name: "Partex Cleen Toilet Tissue Paper Luxury 3 Ply 1 pcs",
+      price: 38  ,
+      unit: "1 pcs",
+      image:  
+        "https://chaldn.com/_mpimage/partex-cleen-toilet-tissue-paper-luxury-3-ply-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D177089&q=best&v=1&m=400&webp=1 ",
+    }
+  ],  
+
 
 
 
