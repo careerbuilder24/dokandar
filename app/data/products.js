@@ -1755,6 +1755,357 @@ export const PRODUCTS = {
         "https://chaldn.com/_mpimage/amana-glass-household-cleaner-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D139043&q=best&v=1&m=400&m=400&webp=1 ",
     }
   ],
+  "air-fresheners":[
+    {
+      id: 1,
+      name: "Glade Scented Gel Lemon 180 gm",
+      price:390 ,
+      unit: "180 gm",
+      image:  
+        "https://chaldn.com/_mpimage/glade-scented-gel-lemon-180-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D168304&q=best&v=1&m=400&webp=1     ",
+    },{
+      id: 2,
+      name: "Ermani Air Freshener Spring Romance 300 ml",
+      price: 180,
+      unit: "300 ml",
+      image:
+        "https://chaldn.com/_mpimage/ermani-air-freshener-spring-romance-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D184040&q=best&v=1&m=400&webp=1  " ,
+    },{
+      id: 3,
+      name: "Angelica Fresh Air Freshener Citrus Burst 300 ml",
+      price:250,
+      unit: " 300 ml",
+      image:
+        "https://chaldn.com/_mpimage/angelic-fresh-air-freshener-citrus-burst-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D176325&q=best&v=1&m=400&webp=1        ",
+    },{
+      id: 4,
+      name: "Angelica Fresh Air Freshener Amazonia 300 ml",
+      price: 250     ,
+      unit: "300 ml",
+      image:
+        "https://chaldn.com/_mpimage/angelic-fresh-air-freshener-amazonia-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D123456&q=best&v=1&m=400&webp=1   "
+    },
+    {
+      id: 5,
+      name: "Godrej Aer Room Air Freshener Spray Violet Valley Bloom 300 ml",
+      price: 390,
+      unit: "300 ml",
+      image:  
+        "https://chaldn.com/_mpimage/godrej-aer-room-air-freshener-spray-violet-valley-bloom-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D153005&q=best&v=1&m=400&webp=1 ",
+    }
+  ],
+  "disposables-trash-bags":[
+    {
+      id: 1,
+      name: "Trash Bag Black 32 x 42 10 pcs",
+      price:290 ,
+      unit: "10 pcs",
+      image:  
+        "https://chaldn.com/_mpimage/trash-bag-black-32-x-42-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D91220&q=best&v=1&m=400&webp=1     ",
+    },{
+      id: 2,
+      name: "Trash Bag White 18 x 24 10 pcs",
+      price: 240,
+      unit: "10 pcs",
+      image:
+        "https://chaldn.com/_mpimage/trash-bag-white-18-x-24-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D91221&q=best&v=1&m=400&webp=1  " ,
+    },{
+      id: 3,
+      name: "Transparent Disposable Piping Bags 85x125 100 pcs",
+      price:750,
+      unit: "100 pcs",
+      image:
+        "https://chaldn.com/_mpimage/transparent-disposable-piping-bags-85x125-100-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69286&q=best&v=1&m=400&webp=1       ",
+    },{
+      id: 4,
+      name: "Disposable Head Cover 100 pcs",
+      price: 490     ,
+      unit: "100 pcs",
+      image:
+        "https://chaldn.com/_mpimage/disposable-head-cover-100-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D79813&q=best&v=1&m=400&webp=1  "
+    },
+    {
+      id: 5,
+      name: "Disposable Vinyl Gloves Pack L 1 pcs",
+      price: 770,
+      unit: "1 pcs",
+      image:  
+        "https://chaldn.com/_mpimage/disposable-vinyl-gloves-pack-l-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D106825&q=best&v=1&m=400&webp=1 ",
+    }
+  ],
+  "shoe-care":[
+    {
+      id: 1,
+      name: "Award Shoe Boot Polish Brown 40 gm",
+      price: 90 ,
+      unit: "40 gm",
+      image:  
+        "https://chaldn.com/_mpimage/award-shoe-boot-polish-brown-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103823&q=best&v=1&m=400&webp=1    ",
+    },{
+      id: 2,
+      name: "Award Shoe Boot Polish Black 40 gm",
+      price: 90,
+      unit: "40 gm",
+      image:
+        "https://chaldn.com/_mpimage/award-shoe-boot-polish-black-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103822&q=best&v=1&m=400&webp=1 " ,
+    },{
+      id: 3,
+      name: "Kiwi Liquid Shoe Polish Brown 75 ml",
+      price:130,
+      unit: "75 ml",
+      image:
+        "https://chaldn.com/_mpimage/kiwi-liquid-shoe-polish-brown-75-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D110139&q=best&v=1&m=400&m=400&webp=1       ",
+    },{
+      id: 4,
+      name: "Smart Instant Shoe Shine Sponge Black 1 pcs",
+      price: 190     ,
+      unit: "1 pcs",
+      image:
+        "https://chaldn.com/_mpimage/smart-instant-shoe-shine-sponge-black-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133741&q=best&v=1&m=400&m=400&webp=1  "
+    },
+    {
+      id: 5,
+      name: "Disposable Shoe Cover 25 pairs",
+      price: 700,
+      unit: "25 pairs",
+      image:  
+        "https://chaldn.com/_mpimage/disposable-shoe-cover-25-pairs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D106822&q=best&v=1&m=400&m=400&webp=1 ",
+    }
+  ],
+  "trash-bin-basket":[
+    {
+      id: 1,
+      name: "RFL Wave Paper Basket Pink 1 pcs",
+      price: 120 ,
+      unit: "1 pcs",
+      image:  
+        "https://chaldn.com/_mpimage/rfl-wave-paper-basket-pink-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132893&q=best&v=1&m=400&m=400&webp=1   ",
+    },{
+      id: 2,
+      name: "RFL Modern Paper Basket Blue 1 pcs",
+      price: 120,
+      unit: "1 pcs",
+      image:
+        "https://chaldn.com/_mpimage/rfl-modern-paper-basket-blue-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132766&q=best&v=1&m=400&webp=1 " ,
+    },{
+      id: 3,
+      name: "RFL Double Paddle Bin 20 Ltr Silver 1 pcs",
+      price:700,
+      unit: "1 pcs",
+      image:
+        "https://chaldn.com/_mpimage/rfl-double-paddle-bin-20-ltr-silver-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D153349&q=best&v=1&m=400&webp=1      ",
+    }
+  ],
+  "mosquito-spray":[
+    {
+      id: 1,
+      name: "Mortein 2 in 1 Mosquito & Cockroach Killer Aerosol Spray 400 ml",
+      price:415 ,
+      unit: "400 ml",
+      image:  
+        "https://chaldn.com/_mpimage/mortein-2-in-1-mosquito-cockroach-killer-aerosol-spray-400-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D176999&q=best&v=1&m=400&webp=1   ",
+    },{
+      id: 2,
+      name: "Mortein Mosquito Repellent Insta Vaporizer Machine Refill 1 pcs",
+      price: 220,
+      unit: "1 pcs",
+      image:
+        "https://chaldn.com/_mpimage/mortein-mosquito-repellent-insta-vaporizer-machine-refill-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D168783&q=best&v=1&m=400&webp=1 " ,
+    },{
+      id: 3,
+      name: "Godrej Red Hit Cockroaches Spray Fresh Fragrance 625 ml",
+      price:580,
+      unit: "625 ml",
+      image:
+        "https://chaldn.com/_mpimage/godrej-red-hit-cockroaches-spray-fresh-fragrance-625-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D110126&q=best&v=1&m=400&webp=1           ",
+    },{
+      id: 4,
+      name: "Vaseline Mosquito Defence Lotion 100 ml",
+      price: 200     ,
+      unit: "100 ml",
+      image:
+        "https://chaldn.com/_mpimage/vaseline-mosquito-defence-lotion-100-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D165256&q=best&v=1&m=400&webp=1    "
+    },
+    {
+      id: 5,
+      name: "Black Hit Anti Mosquito Swatter Racquet 1 pcs",
+      price: 650,
+      unit: "1 pcs",
+      image:  
+        "https://chaldn.com/_mpimage/black-hit-anti-mosquito-swatter-racquet-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D140664&q=best&v=1&m=400&m=400&webp=1 ",
+    }
+  ],
+  "office-electronics":[
+     {
+      id: 1,
+      name: "Sunlite Heavy Duty AAA Battery 2 pcs",
+      price:30 ,
+      unit: "2 pcs",
+      image:  
+        "https://chaldn.com/_mpimage/sunlite-heavy-duty-aaa-battery-2-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D135639&q=best&v=1&m=400&webp=1  ",
+    },{
+      id: 2,
+      name: "Citiplus Scientific Electronic Calculator SX-991 ES Plus 1 pcs",
+      price: 1220,
+      unit: "1 pcs",
+      image:
+        "https://chaldn.com/_mpimage/citiplus-scientific-electronic-calculator-sx-991-es-plus-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D140750&q=best&v=1&m=400&webp=1 " ,
+    }
+  ],
+  "organizers":[
+    {
+      id: 1,
+      name: "Camel Glue Gun 100 W GG-5 Machine 1 pcs",
+      price:390 ,
+      unit: "1 pcs",
+      image:  
+        "https://chaldn.com/_mpimage/camel-glue-gun-100-w-gg-5-machine-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126583&q=best&v=1&m=400&m=400&webp=1  ",
+    },{
+      id: 2,
+      name: "Kangaro Pin Remover Black 1 pcs",
+      price: 220,
+      unit: "1 pcs",
+      image:
+        "https://chaldn.com/_mpimage/kangaro-pin-remover-black-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D139046&q=best&v=1&m=400&webp=1 " ,
+    },{
+      id: 3,
+      name: "Deli Auto Numbering Machine 6 Digits 1 pcs",
+      price:969,
+      unit: "1 pcs",
+      image:
+        "https://chaldn.com/_mpimage/deli-auto-numbering-machine-6-digits?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103631&q=best&v=1&m=400&webp=1           ",
+    },{
+      id: 4,
+      name: "Deli Anti Cutter E2091 1 pcs",
+      price: 200     ,
+      unit: "1 pcs",
+      image:
+        "https://chaldn.com/_mpimage/deli-anti-cutter-e2091-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103652&q=best&v=1&m=400&webp=1    "
+    },
+    {
+      id: 5,
+      name: "RFL Good Luck Three Station File Organizer 1 pcs",
+      price: 300,
+      unit: "1 pcs",
+      image:  
+        "https://chaldn.com/_mpimage/rfl-good-luck-three-station-file-organizer-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D133222&q=best&v=1&m=400&m=400&webp=1 ",
+    },
+    {
+      id: 6,
+      name: "Deli Compass with Lead Pencil Blue 1 pcs",
+      price:190 ,
+      unit: "1 pcs",
+      image:  
+        "https://chaldn.com/_mpimage/deli-compass-with-lead-pencil-blue-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D99920&q=best&v=1&m=400&webp=1  ",
+    },{
+      id: 7,
+      name: "Deli Compass Set 1 pcs",
+      price: 420,
+      unit: "1 pcs",
+      image:
+        "https://chaldn.com/_mpimage/deli-compass-set-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103648&q=best&v=1&m=400&webp=1 " ,
+    },{
+      id: 8,
+      name: "RFL Good Luck Stamp Pad 1 pcs",
+      price:100,
+      unit: "1 pcs",
+      image:
+        "https://chaldn.com/_mpimage/rfl-good-luck-stamp-pad-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D97012&q=best&v=1&m=400&m=400&webp=1          ",
+    },{
+      id: 9,
+      name: "Deli Pen Holder Round Shape 1 pcs",
+      price: 200     ,
+      unit: "1 pcs",
+      image:
+        "https://chaldn.com/_mpimage/deli-pen-holder-round-shape-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126186&q=best&v=1&m=400&m=400&webp=1   "
+    },
+    {
+      id: 10,
+      name: "Pen Holder 1 pcs",
+      price: 190,
+      unit: "1 pcs",
+      image:  
+        "https://chaldn.com/_mpimage/pen-holder-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D1128&q=best&v=1&m=400&webp=1 ",
+    }
+
+  ],
+  "writing-printing":[
+    {
+      id: 1,
+      name: "Econo Soft Grip Ball Pen 10 pcs",
+      price:100 ,
+      unit: "10 pcs",
+      image:  
+        "https://chaldn.com/_mpimage/econo-soft-grip-ball-pen-10-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108280&q=best&v=1&m=400&m=400&webp=1  ",
+    },{
+      id: 2,
+      name: "Linc Glycer Ball Pen Red 6 pcs",
+      price: 159,
+      unit: "6 pcs",
+      image:
+        "https://chaldn.com/_mpimage/linc-glycer-ball-pen-red-6-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130166&q=best&v=1&m=400&m=400&webp=1 " ,
+    },{
+      id: 3,
+      name: "Deli correction Pen Cover Up White 8 ml 1 pcs",
+      price:80,
+      unit: "1 pcs",
+      image:
+        "https://chaldn.com/_mpimage/deli-correction-pen-cover-up-white-8-ml-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131579&q=best&v=1&m=400&webp=1         ",
+    },{
+      id: 4,
+      name: "Red Leaf White Board Marker Pen 737 Black 1 pcs",
+      price: 139    ,
+      unit: "1 pcs",
+      image:
+        "https://chaldn.com/_mpimage/red-leaf-white-board-marker-pen-737-black-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126124&q=best&v=1&m=400&m=400&webp=1   "
+    },
+    {
+      id: 5,
+      name: "Red Leaf 303 Flourescent Highlighter Pink 1 pcs",
+      price: 59,
+      unit: "1 pcs",
+      image:  
+        "https://chaldn.com/_mpimage/red-leaf-303-flourescent-highlighter-pink-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D132647&q=best&v=1&m=400&webp=1",
+    },
+    {
+      id: 6,
+      name: "Deli Compass with Lead Pencil Blue 1 pcs",
+      price:190 ,
+      unit: "1 pcs",
+      image:  
+        "https://chaldn.com/_mpimage/deli-compass-with-lead-pencil-blue-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D99920&q=best&v=1&m=400&webp=1  ",
+    },{
+      id: 7,
+      name: "Deli Compass Set 1 pcs",
+      price: 420,
+      unit: "1 pcs",
+      image:
+        "https://chaldn.com/_mpimage/deli-compass-set-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103648&q=best&v=1&m=400&webp=1 " ,
+    },{
+      id: 8,
+      name: "RFL Good Luck Stamp Pad 1 pcs",
+      price:100,
+      unit: "1 pcs",
+      image:
+        "https://chaldn.com/_mpimage/rfl-good-luck-stamp-pad-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D97012&q=best&v=1&m=400&m=400&webp=1          ",
+    },{
+      id: 9,
+      name: "Deli Pen Holder Round Shape 1 pcs",
+      price: 200     ,
+      unit: "1 pcs",
+      image:
+        "https://chaldn.com/_mpimage/deli-pen-holder-round-shape-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126186&q=best&v=1&m=400&m=400&webp=1   "
+    },
+    {
+      id: 10,
+      name: "Pen Holder 1 pcs",
+      price: 190,
+      unit: "1 pcs",
+      image:  
+        "https://chaldn.com/_mpimage/pen-holder-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D1128&q=best&v=1&m=400&webp=1 ",
+    }
+  ],
+
 
 
 

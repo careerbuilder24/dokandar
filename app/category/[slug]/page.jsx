@@ -208,26 +208,26 @@ const CATEGORY_MAP = {
     ],
   },
 
-  "pest-control": {
-    title: "Pest Control",
-    subcategories: [
-      {
-        title: "Mosquito Spray",
-        image:
-          "https://image.made-in-china.com/2f0j00PoiuclBGvErh/Aerosol-Pest-Control-Products-Insecticide-Spray-Flea-Tick-Lice-Killer-Spray.webp",
-      },
-      {
-        title: "Coils",
-        image:
-          "https://image.made-in-china.com/202f0j00eKjbZWTPZRkr/Pest-Control-Mosquito-Killer-Repellent-Coil.webp"
-      },
-      {
-        title: "Liquid Repellent",
-        image:
-          "https://chaldn.com/_mpimage/mortein-mosquito-repellent-insta-vaporizer-refill-45-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D168844&q=best&v=1&m=400&webp=1"
-      },
-    ],
-  },
+  // "pest-control": {
+  //   title: "Pest Control",
+  //   subcategories: [
+  //     {
+  //       title: "Mosquito Spray",
+  //       image:
+  //         "https://image.made-in-china.com/2f0j00PoiuclBGvErh/Aerosol-Pest-Control-Products-Insecticide-Spray-Flea-Tick-Lice-Killer-Spray.webp",
+  //     },
+  //     {
+  //       title: "Coils",
+  //       image:
+  //         "https://image.made-in-china.com/202f0j00eKjbZWTPZRkr/Pest-Control-Mosquito-Killer-Repellent-Coil.webp"
+  //     },
+  //     {
+  //       title: "Liquid Repellent",
+  //       image:
+  //         "https://chaldn.com/_mpimage/mortein-mosquito-repellent-insta-vaporizer-refill-45-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D168844&q=best&v=1&m=400&webp=1"
+  //     },
+  //   ],
+  // },
 
   "stationery-office": {
     title: "Stationery & Office",

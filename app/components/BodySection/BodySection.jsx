@@ -93,11 +93,11 @@ const categories = [
     slug: "home-cleaning",
     image: "https://s3gw.inet.co.th:8082/smegp-image-1/prod/V1/17062021200518%E0%B8%AD%E0%B8%B8%E0%B8%9B%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%94.jpg",
   },
-  {
-    title: "Pest Control",
-    slug: "pest-control",
-    image: "https://image.made-in-china.com/202f0j00WchukzelOari/Aerosol-Pest-Control-Products-Insecticide-Spray-Flea-Tick-Lice-Killer-Spray.webp",
-  },
+  // {
+  //   title: "Pest Control",
+  //   slug: "pest-control",
+  //   image: "https://image.made-in-china.com/202f0j00WchukzelOari/Aerosol-Pest-Control-Products-Insecticide-Spray-Flea-Tick-Lice-Killer-Spray.webp",
+  // },
   {
     title: "Stationery & Office",
     slug: "stationery-office",
