@@ -4,6 +4,7 @@ import { useParams } from "next/navigation";
 import Navbar from "@/app/components/Navbar/Navbar";
 import { PRODUCTS } from "@/app/data/products";
 import { useCart } from "@/app/context/CartContext";
+import Footer from "@/app/components/Footer/Footer";
 
 export default function ProductListPage() {
   const { subcategory } = useParams();
@@ -13,6 +14,8 @@ export default function ProductListPage() {
   return (
     <>
       <Navbar />
+      
+      
 
       <div className="max-w-7xl mx-auto px-4 py-8">
         <h1 className="text-2xl font-bold mb-6 capitalize">
@@ -51,6 +54,7 @@ export default function ProductListPage() {
           </div>
         )}
       </div>
+      <Footer></Footer>
     </>
   );
 }

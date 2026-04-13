@@ -2106,6 +2106,159 @@ export const PRODUCTS = {
     }
   ],
 
+  "women's-care":[
+    {
+      id: 1,
+      name: "Pears Transparent Soap With Plant Oils",
+      price:350 ,
+      unit: "125gm",
+      image:  
+        "https://chaldn.com/_mpimage/pears-transparent-soap-with-plant-oils-125-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D187170&q=best&v=1&m=400&webp=1 ",
+    },{
+      id: 2,
+      name: "Pears Transparent Soap With Lemon Flower Extracts",
+      price:350 ,
+      unit: "125gm",
+      image:  
+        "https://chaldn.com/_mpimage/pears-transparent-soap-with-lemon-flower-extracts-125-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D187169&q=best&v=1&m=400&webp=1 ",
+    },{
+      id: 3,
+      name: "Ribana Saffron Goat's Milk Soap 110 gm",
+      price:950,
+      unit: "110 gm",
+      image:
+        "https://chaldn.com/_mpimage/ribana-saffron-goats-milk-soap-110-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D94771&q=best&v=1&m=400&webp=1 ",
+    },{
+      id: 4,
+      name: "Parachute Advansed Extra Care Anti Hairfall Oil",
+      price: 380    ,
+      unit: "300 ml",
+      image:
+        "https://chaldn.com/_mpimage/parachute-advansed-extra-care-anti-hairfall-oil-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131905&q=best&v=1&m=400&webp=1 "
+    },
+    {
+      id: 5,
+      name: "Agrilife Extra Virgin Coconut Oil 500 ml",
+      price: 1100,
+      unit: "500 ml",
+      image:  
+        "https://chaldn.com/_mpimage/agrilife-extra-virgin-coconut-oil-450-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D92014&q=best&v=1&m=400&m=400&webp=1",
+    },
+    {
+      id: 6,
+      name: "Ceylon Organic Extra Virgin Coconut Oil 500 ml",
+      price: 1600 ,
+      unit: "500 ml",
+      image:  
+        "https://chaldn.com/_mpimage/ceylon-organic-extra-virgin-coconut-oil-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126647&q=best&v=1&m=400&webp=1 ",
+    },{
+      id: 7,
+      name: "Dove Shampoo Intense Repair ",
+      price: 580,
+      unit: "450 ml",
+      image:
+        "https://chaldn.com/_mpimage/dove-shampoo-intense-repair-450-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D159916&q=best&v=1&m=400&webp=1 " ,
+    },{
+      id: 8,
+      name: "Tresemmé Shampoo Hair Fall Defense",
+      price:100,
+      unit: "580 ml",
+      image:
+        "https://chaldn.com/_mpimage/tresemme-shampoo-hair-fall-defense-580-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128355&q=best&v=1&m=400&webp=1      ",
+    },{
+      id: 9,
+      name: "VSN4 Venus Sanitary Napkin Panty Liner",
+      price: 245    ,
+      unit: "25 pcs",
+      image:
+        "https://chaldn.com/_mpimage/vsn4-venus-sanitary-napkin-panty-liner-25-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185201&q=best&v=1&m=400&webp=1  "
+    },
+    {
+      id: 10,
+      name: "GSN5 Grace Wings Sanitary Napkin Heavy Flow (Panty) 15 pads",
+      price: 190,
+      unit: "15 pcs",
+      image:  
+        "https://chaldn.com/_mpimage/gsn5-grace-wings-sanitary-napkin-heavy-flow-panty-15-pads?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D186408&q=best&v=1&m=400&webp=1",
+    }
+  ],
+  "men's-care":[
+    {
+      id: 1,
+      name: "Pears Transparent Soap With Plant Oils",
+      price:350 ,
+      unit: "125gm",
+      image:  
+        "https://chaldn.com/_mpimage/pears-transparent-soap-with-plant-oils-125-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D187170&q=best&v=1&m=400&webp=1 ",
+    },{
+      id: 2,
+      name: "Pears Transparent Soap With Lemon Flower Extracts",
+      price:350 ,
+      unit: "125gm",
+      image:  
+        "https://chaldn.com/_mpimage/pears-transparent-soap-with-lemon-flower-extracts-125-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D187169&q=best&v=1&m=400&webp=1 ",
+    },{
+      id: 3,
+      name: "Ribana Saffron Goat's Milk Soap 110 gm",
+      price:950,
+      unit: "110 gm",
+      image:
+        "https://chaldn.com/_mpimage/ribana-saffron-goats-milk-soap-110-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D94771&q=best&v=1&m=400&webp=1 ",
+    },{
+      id: 4,
+      name: "Parachute Advansed Extra Care Anti Hairfall Oil",
+      price: 380    ,
+      unit: "300 ml",
+      image:
+        "https://chaldn.com/_mpimage/parachute-advansed-extra-care-anti-hairfall-oil-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D131905&q=best&v=1&m=400&webp=1 "
+    },
+    {
+      id: 5,
+      name: "Agrilife Extra Virgin Coconut Oil 500 ml",
+      price: 1100,
+      unit: "500 ml",
+      image:  
+        "https://chaldn.com/_mpimage/agrilife-extra-virgin-coconut-oil-450-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D92014&q=best&v=1&m=400&m=400&webp=1",
+    },
+    {
+      id: 6,
+      name: "Ceylon Organic Extra Virgin Coconut Oil 500 ml",
+      price: 1600 ,
+      unit: "500 ml",
+      image:  
+        "https://chaldn.com/_mpimage/ceylon-organic-extra-virgin-coconut-oil-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126647&q=best&v=1&m=400&webp=1 ",
+    },{
+      id: 7,
+      name: "Dove Shampoo Intense Repair ",
+      price: 580,
+      unit: "450 ml",
+      image:
+        "https://chaldn.com/_mpimage/dove-shampoo-intense-repair-450-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D159916&q=best&v=1&m=400&webp=1 " ,
+    },{
+      id: 8,
+      name: "Tresemmé Shampoo Hair Fall Defense",
+      price:100,
+      unit: "580 ml",
+      image:
+        "https://chaldn.com/_mpimage/tresemme-shampoo-hair-fall-defense-580-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128355&q=best&v=1&m=400&webp=1      ",
+    },{
+      id: 9,
+      name: "VSN4 Venus Sanitary Napkin Panty Liner",
+      price: 245    ,
+      unit: "25 pcs",
+      image:
+        "https://chaldn.com/_mpimage/vsn4-venus-sanitary-napkin-panty-liner-25-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D185201&q=best&v=1&m=400&webp=1  "
+    },
+    {
+      id: 10,
+      name: "GSN5 Grace Wings Sanitary Napkin Heavy Flow (Panty) 15 pads",
+      price: 190,
+      unit: "15 pcs",
+      image:  
+        "https://chaldn.com/_mpimage/gsn5-grace-wings-sanitary-napkin-heavy-flow-panty-15-pads?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D186408&q=best&v=1&m=400&webp=1",
+    }
+  ],
+
 
 
 

@@ -12,6 +12,8 @@ import { useState, useEffect } from "react";
 import { onAuthStateChanged, signOut } from "firebase/auth";
 import { auth } from "@/app/lib/firebase";
 
+
+
 export default function Navbar() {
   const pathname = usePathname();
   const hideHero = pathname === "/login";
@@ -76,9 +78,9 @@ export default function Navbar() {
                 <button className="text-gray-600">বাংলা</button>
               </div>
 
-              <Link href="/Home" className="bg-pink-500 hover:bg-pink-600 text-white px-5 py-2 rounded-md text-sm font-medium">
+              {/* <Link href="/Home" className="bg-pink-500 hover:bg-pink-600 text-white px-5 py-2 rounded-md text-sm font-medium">
                 Home
-              </Link>
+              </Link> */}
 
               <Link href="/category/fruits-vegetables" className="bg-pink-500 hover:bg-pink-600 text-white px-5 py-2 rounded-md text-sm font-medium">
                 Category
