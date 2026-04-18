@@ -22,7 +22,7 @@ export async function GET() {
 }
 
 
-// ✅ POST (your existing code)
+//  POST (your existing code)
 export async function POST(req) {
   try {
     const { email, uid } = await req.json();
